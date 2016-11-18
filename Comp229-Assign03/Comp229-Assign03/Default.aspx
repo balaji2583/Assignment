@@ -7,8 +7,9 @@
         <h2>Courses</h2>
         <div>
             <%--Landing Page Banner Image--%>
-            <img class="Landingbanner" src="#" />
-        </div>
+            <img class="auto-style1" src="Images/1.jpg"/>
+
+        </div><br />
         <strong>Add Student</strong>
         <hr />
         <div class="center">
@@ -45,3 +46,12 @@
         </p>
     </div>
 </asp:Content>
+<asp:Content ID="Content1" runat="server" contentplaceholderid="HeadContent">
+    <style type="text/css">
+        .auto-style1 {
+            width: 840px;
+            height: 292px;
+        }
+    </style>
+</asp:Content>
+

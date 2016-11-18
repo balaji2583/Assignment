@@ -134,6 +134,7 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="Course.aspx" />
+    <Content Include="Images\1.jpg" />
     <Content Include="Student.aspx" />
     <Content Include="Students.aspx" />
     <Content Include="Thankyou.aspx" />
